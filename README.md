@@ -1,3 +1,3 @@
-Modern Joke Religions mod for [Unciv](https://github.com/yairm210/Unciv)
+WIP GnK mod for [Unciv](https://github.com/yairm210/Unciv)
 
-![image](https://raw.githubusercontent.com/SomeTroglodyte/Modern-Joke-Religions/refs/heads/master/preview.png)
+![image](https://raw.githubusercontent.com/Halo-81/Feygard_Unciv_Project/edit/master/preview.png)
