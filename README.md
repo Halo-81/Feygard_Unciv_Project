@@ -1,5 +1,3 @@
-# Unciv-mod-example
+Modern Joke Religions mod for [Unciv](https://github.com/yairm210/Unciv)
 
-An example mod for Unciv, that adds one new Civilization.
-
-For information on how to build and use mods, please refer to [the setup instructions](https://yairm210.github.io/Unciv/Modders/Making-a-new-Civilization/)
+![image](https://raw.githubusercontent.com/SomeTroglodyte/Modern-Joke-Religions/refs/heads/master/preview.png)
